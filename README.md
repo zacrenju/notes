@@ -7,4 +7,5 @@ Confusion Matrix:
 
 
 TP (True Positive): When model predicts the true positive as positive,which means actual and predicted are positive.
+
 TN (True Negative): When model predicts the true negative as negative, which means the actual and the predicted are negative.
